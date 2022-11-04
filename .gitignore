@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Sample.Sql/config
+/.vs/Sample.Sql/v17
+/src/.vs/Sample.Sql
+/.vs/SqlMI/v17
+/.vs
+/src/Sample.Sql/bin/Debug/net6.0
+/src/Sample.Sql/obj
+/test/Sample.Sql.Function.Test/bin/Debug/net6.0
+/test/Sample.Sql.Function.Test/obj
+/test/Sample.Sql.Function.Test/Properties
